@@ -6,8 +6,6 @@
 
 吾将上下而求索
 
-
-
-[开始使用 Let Go](/README.md)
+[学习Web安全 Let Go](/docs/README.md)  [学习数模 Let Go](/README.md) 
 
 
