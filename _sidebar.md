@@ -45,5 +45,7 @@
     * [代码实现](/interpolation/main.md)
     
     * [课件](/interpolation/courseware.md)
+    
+    * [作业](/interpolation/homework.md)
 
 
