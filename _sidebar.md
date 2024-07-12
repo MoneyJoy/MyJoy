@@ -47,5 +47,13 @@
     * [课件](/interpolation/courseware.md)
     
     * [作业](/interpolation/homework.md)
+  
+  * 拟合
+    
+    * [理论](/fitting/fitting.md)
+    
+    * [代码实现](/fitting/main.md)
+    
+    * [课件](/fitting/courseware.md)
 
 
