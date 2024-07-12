@@ -37,5 +37,13 @@
   * 用excel绘制统计图
     
     * [excel](/excel/excel.md)
+  
+  * 插值算法
+    
+    * [理论](/interpolation/interpolation.md)
+    
+    * [代码实现](/interpolation/main.md)
+    
+    * [课件](/interpolation/courseware.md)
 
 
