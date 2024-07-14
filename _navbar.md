@@ -1,6 +1,7 @@
 * [数模](/README.md)
 * [Web安全](/docs/README.md)
 * [基础知识](/learn/README.md)
+* [JAVA](/JAVA/README.md)
 * 链接到我  
   * [Github地址](https://github.com/MoneyJoy)
 * 友情链接
