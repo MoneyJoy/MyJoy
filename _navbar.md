@@ -4,5 +4,6 @@
 * [JAVA](/JAVA/README.md)
 * 链接到我  
   * [Github地址](https://github.com/MoneyJoy)
+  * [Gitee地址](https://gitee.com/MoneyJoy)
 * 友情链接
   * [Docsify](https://docsify.js.org/#/)
