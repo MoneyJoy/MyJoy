@@ -4,3 +4,4 @@
   * [3. 流程控制](/JAVA/day03/day03.md)
   * [4. 循环-数组](/JAVA/day04/day04.md)
   * [5. 数组-方法](/JAVA/day05/day05.md)
+  * [6. 方法重载-面向对象](/JAVA/day06/day06.md)
