@@ -2,7 +2,9 @@
 * [Web安全](/docs/README.md)
 * [基础知识](/learn/README.md)
 * [JAVA](/JAVA/README.md)
-* [Python](https://gitee.com/MoneyJoy/mcm)
+* Python
+  * [Gitee仓库](https://gitee.com/MoneyJoy/mcm)
+  * [代码](Python/README.md)
 * 链接到我  
   * [Github地址](https://github.com/MoneyJoy)
   * [Gitee地址](https://gitee.com/MoneyJoy)

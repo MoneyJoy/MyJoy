@@ -10,12 +10,16 @@
     
     * [代码实现](/层次分析法/main.md)
   
+    * [python](/层次分析法/ccfx.md)
+    
   * TOPSIS
     
     * [TOPSIS](/TOPSIS/TOPSIS.md)
     
     * [代码实现](/TOPSIS/main.md)
   
+    * [python](/TOPSIS/topsispy.md)
+    
   * 灰色关联分析
     
     * 应用一
@@ -55,5 +59,4 @@
     * [代码实现](/fitting/main.md)
     
     * [课件](/fitting/courseware.md)
-
 
