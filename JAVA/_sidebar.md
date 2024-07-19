@@ -6,4 +6,4 @@
   * [5. 数组-方法](/JAVA/day05/day05.md)
   * [6. 方法重载-面向对象](/JAVA/day06/day06.md)
   * [7. 封装-静态-对象数组](JAVA/day07/day07.md)
-  * [8. 面向对象](/JAVA/Day08/Day08.md)
+  * [8. 面向对象](/JAVA/day08/day08.md)
