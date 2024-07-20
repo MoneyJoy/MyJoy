@@ -1,13 +1,14 @@
 ```python
+from fractions import Fraction
 import numpy as np
 
 # 从用户输入获取矩阵A的值
 def get_matrix_input(n):
     print(f"请输入 {n}x{n} 矩阵的值，每行的值以空格分隔:")
-    A = np.zeros(shape=(n, n))
+    A = np.zeros((n, n))
     for i in range(n):
-        A[i] = input().split(" ")
-        A[i] = list(map(float, A[i]))
+        row_input = input().split()
+        A[i] = [float(Fraction(val)) for val in row_input]
     return A
 
 n = int(input("请输入矩阵的维度:"))  # 假设矩阵的维度为4，你可以根据需要修改这个值
