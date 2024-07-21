@@ -7,3 +7,4 @@
   * [6. 方法重载-面向对象](/JAVA/day06/day06.md)
   * [7. 封装-静态-对象数组](JAVA/day07/day07.md)
   * [8. 面向对象](/JAVA/day08/day08.md)
+  * [9. 面向对象](/JAVA/day09/day09.md)
