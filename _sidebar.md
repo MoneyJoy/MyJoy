@@ -57,4 +57,5 @@
     * [原理](/PCA/PCA.md)
     * [Python](/PCA/code.md)
   * [LP](/LP/LP.md)
+  * [MC](/MC/MC.md)
 
