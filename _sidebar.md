@@ -53,9 +53,7 @@
     * [代码实现](/fitting/main.md)
     
     * [课件](/fitting/courseware.md)
-  * PCA
-    * [原理](/PCA/PCA.md)
-    * [Python](/PCA/code.md)
+  * [PCA](/PCA/PCA.md)
   * [LP](/LP/LP.md)
   * [MC](/MC/MC.md)
 
