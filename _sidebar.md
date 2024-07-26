@@ -56,6 +56,6 @@
   * [PCA](/PCA/PCA.md)
   * [LP](/LP/LP.md)
   * [MC](/MC/MC.md)
-  * [Integer](Integer/integer.md)
+  * [Integer](Integer/Integer.md)
   * [0-1](Integer/0-1.md)
 
